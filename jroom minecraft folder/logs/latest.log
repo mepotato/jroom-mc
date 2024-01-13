@@ -1,0 +1,72 @@
+[06:44:07] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[06:44:08] [ServerMain/INFO]: Loaded 7 recipes
+[06:44:09] [ServerMain/INFO]: Loaded 1179 advancements
+[06:44:09] [Server thread/INFO]: Starting minecraft server version 1.19.4
+[06:44:09] [Server thread/INFO]: Loading properties
+[06:44:09] [Server thread/INFO]: Default game type: SURVIVAL
+[06:44:09] [Server thread/INFO]: Generating keypair
+[06:44:09] [Server thread/INFO]: Starting Minecraft server on *:25565
+[06:44:09] [Server thread/INFO]: Using epoll channel type
+[06:44:09] [Server thread/INFO]: Preparing level "world"
+[06:44:14] [User Authenticator #1/INFO]: UUID of player pxxel is cac31eb2-f3ba-439f-a257-e6c4741d1cfb
+[06:44:15] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[06:44:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:44:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:44:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:44:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:44:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:44:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:44:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:44:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:44:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:44:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:44:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:44:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:44:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:44:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:44:22] [Worker-Main-1/INFO]: Preparing spawn area: 10%
+[06:44:22] [Server thread/INFO]: Time elapsed: 7739 ms
+[06:44:22] [Server thread/INFO]: Done (12.948s)! For help, type "help"
+[06:44:22] [Server thread/INFO]: pxxel[/69.181.217.70:60903] logged in with entity id 46 at (745.5630727527911, 64.0, 415.43440150081)
+[06:44:22] [Server thread/INFO]: pxxel joined the game
+[06:44:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3683ms or 73 ticks behind
+[06:44:37] [User Authenticator #2/INFO]: UUID of player Sipwater is 7a258a1c-7289-4fdd-821d-6ede9e540e44
+[06:44:37] [Server thread/INFO]: Sipwater[/98.97.56.66:15144] logged in with entity id 471 at (759.0989288858683, 64.0, 435.5459877979496)
+[06:44:37] [Server thread/INFO]: Sipwater joined the game
+[06:47:19] [Server thread/INFO]: pxxel has made the advancement [Acquire Hardware]
+[06:47:55] [Server thread/INFO]: Sipwater has made the advancement [What a Deal!]
+[06:47:56] [Server thread/INFO]: Sipwater has made the advancement [Cover Me with Diamonds]
+[06:48:25] [Server thread/INFO]: pxxel has made the advancement [Ice Bucket Challenge]
+[06:52:45] [Server thread/INFO]: pxxel has made the advancement [We Need to Go Deeper]
+[06:52:47] [Server thread/INFO]: Sipwater has made the advancement [We Need to Go Deeper]
+[06:53:03] [Server thread/INFO]: pxxel has made the advancement [Monster Hunter]
+[06:53:19] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=668, y=62, z=408} gt{x=73, y=65, z=90}
+[06:53:19] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=668, y=62, z=408} gt{x=73, y=65, z=90}
+[06:53:19] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=668, y=62, z=408} gt{x=73, y=65, z=90}
+[06:54:33] [Server thread/INFO]: Sipwater has made the advancement [Take Aim]
+[06:54:48] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=196, y=72, z=139} gt{x=196, y=75, z=142}
+[06:55:59] [Server thread/INFO]: Sipwater has made the advancement [Monster Hunter]
+[06:56:58] [Server thread/INFO]: pxxel tried to swim in lava to escape Piglin
+[06:57:03] [Server thread/INFO]: Sipwater has made the advancement [Ice Bucket Challenge]
+[07:00:38] [Server thread/INFO]: <Sipwater> 205, 170
+[07:01:47] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=208, y=40, z=177} gt{x=208, y=40, z=178}
+[07:01:47] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=208, y=40, z=177} gt{x=208, y=40, z=178}
+[07:01:47] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=208, y=40, z=177} gt{x=208, y=40, z=178}
+[07:03:59] [Server thread/INFO]: pxxel has made the advancement [A Terrible Fortress]
+[07:04:02] [Server thread/INFO]: Sipwater has made the advancement [A Terrible Fortress]
+[07:06:05] [Server thread/INFO]: pxxel has completed the challenge [Return to Sender]
+[07:07:06] [Server thread/INFO]: pxxel has made the advancement [Into Fire]
+[07:07:49] [Server thread/INFO]: pxxel has made the advancement [Not Today, Thank You]
+[07:08:00] [Server thread/INFO]: Sipwater has made the advancement [Into Fire]
+[07:10:01] [Server thread/INFO]: pxxel has made the advancement [Diamonds!]
+[07:10:06] [Server thread/INFO]: Sipwater has made the advancement [Not Today, Thank You]
+[07:16:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3988ms or 79 ticks behind
+[07:22:40] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=85, y=65, z=116} gt{x=85, y=64, z=118}
+[07:22:45] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=84, y=65, z=106} gt{x=84, y=64, z=104}
+[07:22:45] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=84, y=65, z=106} gt{x=84, y=64, z=104}
+[07:22:45] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=84, y=65, z=106} gt{x=84, y=64, z=104}
+[07:25:15] [Server thread/INFO]: pxxel has made the advancement [Best Friends Forever]
+[07:30:00] [Server thread/INFO]: pxxel lost connection: Disconnected
+[07:30:00] [Server thread/INFO]: pxxel left the game
+[07:35:25] [Server thread/INFO]: Sipwater lost connection: Disconnected
+[07:35:25] [Server thread/INFO]: Sipwater left the game
